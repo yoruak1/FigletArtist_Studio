@@ -2,7 +2,7 @@
 
 这是一个带GUI的Figlet 艺术字生成器，方便大伙使用 Figlet 库生成 ASCII 艺术字。
 
-<img src="./demo/1.png" style="zoom:50%;" />
+<img src=" .\demo\1.png" style="zoom:50%;" />
 
 ## 功能特点
 
@@ -26,7 +26,7 @@ Python 3.9 或更高版本
 
 1. 运行程序：
    ```bash
-   python figlet_gui.py
+   python FigletArtist_Studio.py
    ```
 
 2. 在程序界面中：
