@@ -1,20 +1,20 @@
-# Figlet 艺术字生成器
+# FigletArtist_Studio(Figlet 艺术字生成器)
 
 这是一个带GUI的Figlet 艺术字生成器，方便大伙使用 Figlet 库生成 ASCII 艺术字。
 
 <img src=".\demo\1.png" style="zoom:50%;" />
 
-## 功能特点
+## ✨功能特点
 
 - 直观的图形界面
 - 支持所有 Figlet 内置字体
 - 实时预览生成结果
 
-## 安装要求
+## 📋安装要求
 
 Python 3.9 或更高版本
 
-## 安装步骤
+## 🚀安装步骤
 
 1. 克隆或下载此仓库
 2. 安装依赖：
@@ -22,7 +22,7 @@ Python 3.9 或更高版本
    pip install -r requirements.txt
    ```
 
-## 使用方法
+## 🔧使用方法
 
 1. 运行程序：
    ```bash
